@@ -18,15 +18,16 @@ gsettings set org.gnome.desktop.interface gtk-theme "Catppuccin-Mocha-Standard-P
   #+end_src
 
 ** TODO General
-+ [ ] Hyprland
-+ [ ] eww
-+ [ ] helix
++ [X] Hyprland
++ [X] eww
++ [X] helix
 + [ ] kitty
 + [ ] nvim
 + [ ] rofi
 + [ ] spt
 + [ ] qt5ct
 + [ ] gtk3.0
++ [ ] emacs
 
 
 ** TODO Latte
