@@ -1,0 +1,52 @@
+#+title: Roadmap
+
+* PROJ Files
++ Hyprland :: .conf
++ eww :: .scss
++ helix :: config.toml -> theme = "{catppuccin_mocha|catppuccin_latte}"
++ kitty :: theme_file
++ nvim :: chadrc.lua -> theme = "{catppuccin|ayu_light}"  -- has no light theme
+  theme_toogle = {catppuccin, ayu_light}
++ rofi :: .rasi file
++ spt :: .yaml file referenced
++ qt5ct :: color_scheme_path = ...
++ gtk3.0 :: settings.ini -> gtk-theme-name=[...] and
+  #+begin_src sh
+gsettings set org.gnome.desktop.interface gtk-theme "Catppuccin-Latte-Standard-Peach-light"
+gsettings set org.gnome.desktop.interface gtk-theme "Catppuccin-Mocha-Standard-Peach-Dark"
+
+  #+end_src
+
+** TODO General
++ [ ] Hyprland
++ [ ] eww
++ [ ] helix
++ [ ] kitty
++ [ ] nvim
++ [ ] rofi
++ [ ] spt
++ [ ] qt5ct
++ [ ] gtk3.0
+
+
+** TODO Latte
++ [ ] Hyprland
++ [ ] eww
++ [ ] helix
++ [ ] kitty
++ [ ] nvim
++ [ ] rofi
++ [ ] spt
++ [ ] qt5ct
++ [ ] gtk3.0
+
+** TODO Mocha
++ [ ] Hyprland
++ [ ] eww
++ [ ] helix
++ [ ] kitty
++ [ ] nvim
++ [ ] rofi
++ [ ] spt
++ [ ] qt5ct
++ [ ] gtk3.0
