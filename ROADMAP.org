@@ -21,12 +21,12 @@ gsettings set org.gnome.desktop.interface gtk-theme "Catppuccin-Mocha-Standard-P
 + [X] Hyprland
 + [X] eww
 + [X] helix
-+ [ ] kitty
++ [X] kitty
 + [ ] nvim
-+ [ ] rofi
-+ [ ] spt
-+ [ ] qt5ct
-+ [ ] gtk3.0
++ [X] rofi
++ [X] spt
++ [X] qt5ct
++ [X] gtk3.0
 + [ ] emacs
 
 
