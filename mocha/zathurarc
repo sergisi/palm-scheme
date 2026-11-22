@@ -1,0 +1,40 @@
+set notification-error-bg       "#11111b" # bg
+set notification-error-fg       "#f38ba8" # bright:red
+set notification-warning-bg     "#11111b" # bg
+set notification-warning-fg     "#f2cdcd" # bright:yellow
+set notification-bg             "#11111b" # bg
+set notification-fg             "#89b4fa" # bright:green
+
+set completion-bg               "#45475a" # bg2
+set completion-fg               "#bac2de" # fg
+set completion-group-bg         "#313244" # bg1
+set completion-group-fg         "#a6adc8" # gray
+set completion-highlight-bg     "#fab387" # bright:blue
+set completion-highlight-fg     "#45475a" # bg2
+
+# Define the color in index mode
+set index-bg                    "#45475a" # bg2
+set index-fg                    "#bac2de" # fg
+set index-active-bg             "#fab387" # bright:blue
+set index-active-fg             "#45475a" # bg2
+
+set inputbar-bg                 "#11111b" # bg
+set inputbar-fg                 "#bac2de" # fg
+
+set statusbar-bg                "#45475a" # bg2
+set statusbar-fg                "#bac2de" # fg
+
+set highlight-color             "#f2cdcd" # bright:yellow
+set highlight-active-color      "#af3a03" # bright:orange
+
+set default-bg                  "#11111b" # bg
+set default-fg                  "#bac2de" # fg
+set render-loading              true
+set render-loading-bg           "#11111b" # bg
+set render-loading-fg           "#bac2de" # fg
+
+# Recolor book content's color
+set recolor-lightcolor          "#11111b" # bg
+set recolor-darkcolor           "#bac2de" # fg
+set recolor                     "true"
+# set recolor-keephue             true      # keep original color

@@ -1,0 +1,8 @@
+# Colors
+background-color=#{{ surface0 }}
+text-color=#{{ text }}
+border-color=#{{ primary }}
+progress-color=over #{{ secondary }}
+
+[urgency=high]
+border-color=#{{ red }}

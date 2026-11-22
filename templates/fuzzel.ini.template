@@ -1,0 +1,12 @@
+[colors]
+background={{surface0 }}ff
+text={{ text }}ff
+prompt={{ subtext0 }}ff
+placeholder={{ subtext1 }}ff
+input={{ text }}ff
+match={{ red }}ff
+selection={{ primary }}ff
+selection-text={{ text }}ff
+selection-match={{ subtext0 }}ff
+counter={{ subtext1 }}ff
+border={{ subtext1 }}ff

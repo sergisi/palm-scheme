@@ -1,0 +1,4 @@
+$color1 = 0xff{{ red }} 
+$color2 = 0xff{{ red }}
+$inactive = 0xee{{ surface0 }}
+$crust= {{ crust }}

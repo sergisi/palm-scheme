@@ -1,0 +1,15 @@
+layout {
+    focus-ring {
+        active-color "#{{ red }}"
+        inactive-color "#{{ surface0 }}"
+    }
+    border {
+        active-color "#{{ primary }}"
+        inactive-color "#{{ surface0 }}"
+        urgent-color "#{{ red }}"
+    }
+    shadow {
+        color "#{{ crust }}"
+    }
+}
+

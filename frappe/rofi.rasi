@@ -1,12 +1,12 @@
 * {
-    bg-col:  #303446;
-    bg-col-light: #303446;
-    border-col: #303446;
-    selected-col: #303446;
-    blue: #8caaee;
-    fg-col: #c6d0f5;
-    fg-col2: #e78284;
-    grey: #737994;
+    bg-col: #232634;
+    bg-col-light: #232634;
+    border-col: #a5adce;
+    selected-col: #e78284;
+    blue: #ef9f76;
+    fg-col: #b5bfe2;
+    fg-col2: #b5bfe2;
+    grey: #a5adce;
 
     width: 600;
     font: "JetBrainsMono Nerd Font 14";
@@ -59,8 +59,8 @@ listview {
     border: 0px 0px 0px;
     padding: 6px 0px 0px;
     margin: 10px 0px 0px 20px;
-    columns: 2;
-    lines: 5;
+    columns: 1;
+    lines: 10;
     background-color: @bg-col;
 }
 

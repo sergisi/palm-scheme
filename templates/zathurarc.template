@@ -1,0 +1,40 @@
+set notification-error-bg       "#{{ crust }}" # bg
+set notification-error-fg       "#{{ red }}" # bright:red
+set notification-warning-bg     "#{{ crust }}" # bg
+set notification-warning-fg     "#{{ ternary }}" # bright:yellow
+set notification-bg             "#{{ crust }}" # bg
+set notification-fg             "#{{ secondary }}" # bright:green
+
+set completion-bg               "#{{ surface1 }}" # bg2
+set completion-fg               "#{{ subtext0 }}" # fg
+set completion-group-bg         "#{{ surface0 }}" # bg1
+set completion-group-fg         "#{{ subtext1 }}" # gray
+set completion-highlight-bg     "#{{ primary }}" # bright:blue
+set completion-highlight-fg     "#{{ surface1 }}" # bg2
+
+# Define the color in index mode
+set index-bg                    "#{{ surface1 }}" # bg2
+set index-fg                    "#{{ subtext0 }}" # fg
+set index-active-bg             "#{{ primary }}" # bright:blue
+set index-active-fg             "#{{ surface1 }}" # bg2
+
+set inputbar-bg                 "#{{ crust }}" # bg
+set inputbar-fg                 "#{{ subtext0 }}" # fg
+
+set statusbar-bg                "#{{ surface1 }}" # bg2
+set statusbar-fg                "#{{ subtext0 }}" # fg
+
+set highlight-color             "#{{ ternary }}" # bright:yellow
+set highlight-active-color      "#af3a03" # bright:orange
+
+set default-bg                  "#{{ crust }}" # bg
+set default-fg                  "#{{ subtext0 }}" # fg
+set render-loading              true
+set render-loading-bg           "#{{ crust }}" # bg
+set render-loading-fg           "#{{ subtext0 }}" # fg
+
+# Recolor book content's color
+set recolor-lightcolor          "#{{ crust }}" # bg
+set recolor-darkcolor           "#{{ subtext0 }}" # fg
+set recolor                     "true"
+# set recolor-keephue             true      # keep original color
